@@ -1,5 +1,5 @@
 # UAS_Visi_Komputer
 
-### Nama : Rizal Akbar Fitrianto
-### NIM : 23420001
-### Prodi : Teknik Informatika 20 B
+### Nama : Dewi Murniati
+### NIM : 23420017
+### Prodi : Teknik Informatika 2020 B
